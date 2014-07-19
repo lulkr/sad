@@ -1,3 +1,4 @@
 # Simple Data Access
 
-WEB 기반 데이터 관리 서비스.
+WEB 기반 오브젝트 저장소.
+WEB based object storage.
